@@ -27,7 +27,7 @@
       
 ---
 ## Projects:
-- Link: https://github.com/TheGedi/AbduAwad/projects
+- Link: https://github.com/TheGedi/projects
 
 
 
