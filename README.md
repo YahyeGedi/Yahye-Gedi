@@ -2,7 +2,7 @@
   <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="500" height="175"/>
   
   <div id="badges" style="margin-top: 10px;">
-    <a href="https://www.linkedin.com/in/yahye-gedi-/">
+    <a href="[https://www.linkedin.com/in/yahye-gedi-/](https://www.linkedin.com/in/yahyegedi/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/ahya.ygedi/">
