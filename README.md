@@ -2,9 +2,9 @@
   <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="500" height="175"/>
   
   <div id="badges" style="margin-top: 10px;">
-    <a href="[https://www.linkedin.com/in/yahye-gedi-/](https://www.linkedin.com/in/yahyegedi/)">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    <a href="https://www.linkedin.com/in/yahyegedi/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
     <a href="https://www.instagram.com/ahya.ygedi/">
       <img src="https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
@@ -45,9 +45,9 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/yahye-gedi/](https://www.linkedin.com/in/yahyegedi/)" target="[blank](https://www.linkedin.com/in/yahyegedi/)">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/yahyegedi/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
   <a href="https://leetcode.com/TheGedi/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
