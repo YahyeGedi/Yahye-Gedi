@@ -30,7 +30,7 @@
 - 🤝 Seeking **Winter 2026 Internship / Co-op Opportunities**
 - 🧠 Strong foundation in **algorithms**, **data structures**, and **software design**
 - 🚀 Interested in leveraging machine learning to solve real-world challenges
-- 📫 How to reach me ahya.ygedi@gmail.com
+- 📫 How to reach me: ahya.ygedi@gmail.com
 ---
 
 ## 🔗 Useful Links
