@@ -45,7 +45,7 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/yahye-gedi/](https://www.linkedin.com/in/yahyegedi/)" target="blank">
+  <a href="[https://www.linkedin.com/in/yahye-gedi/](https://www.linkedin.com/in/yahyegedi/)" target="[blank](https://www.linkedin.com/in/yahyegedi/)">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/TheGedi/" target="blank">
